@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goi17.github.io/ai-frontend-testing-kit-free/sitemap.xml

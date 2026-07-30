@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AI Frontend Testing Kit</title>
+  <desc id="desc">From requirements to frontend tests with human judgment</desc>
+  <rect width="1200" height="630" fill="#071c18"/>
+  <circle cx="1030" cy="100" r="260" fill="#dbff6e" opacity=".12"/>
+  <text x="80" y="165" fill="#dbff6e" font-family="Arial" font-weight="700" font-size="28" letter-spacing="4">AI FRONTEND TESTING KIT</text>
+  <text x="80" y="285" fill="#f4f0e7" font-family="Georgia" font-weight="700" font-size="76">From requirements</text>
+  <text x="80" y="375" fill="#f4f0e7" font-family="Georgia" font-weight="700" font-size="76">to tests.</text>
+  <text x="80" y="490" fill="#b9c6c0" font-family="Arial" font-size="30">Prompts · workflows · Playwright · RTL · human review</text>
+</svg>
