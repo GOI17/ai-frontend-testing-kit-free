@@ -2,6 +2,9 @@
 
 Copyright © 2026 Alfred Labs.
 
+Licensor: Jose Gilberto Olivas Ibarra, an individual operating under the trade
+name Alfred Labs, based in Mexico City, Mexico.
+
 Subject to these terms, Alfred Labs grants one recipient a royalty-free,
 worldwide, non-exclusive, non-transferable license to use, copy, and adapt the
 Free edition in personal or commercial projects, including client projects and
@@ -32,5 +35,5 @@ unless they contain redistributed original material or form a competing kit.
 
 Contact: alfredlabs.help@gmail.com.
 
-Version: `0.2-pre-live-draft` · July 30, 2026. The licensor’s legal identity and
-governing-law terms require qualified review before commercial launch.
+Version: `0.2-pre-live-draft` · July 30, 2026. Governing-law and commercial-sale
+terms require qualified review before commercial launch.
