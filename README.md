@@ -24,6 +24,7 @@ Download the current ZIP from
 [Releases](https://github.com/GOI17/ai-frontend-testing-kit-free/releases/latest).
 
 Verify the SHA-256 value published with the release before extracting it.
+Review the current [Free Edition License](FREE-LICENSE.md) before use.
 
 ## Important
 
