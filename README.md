@@ -4,6 +4,9 @@ A limited, executable sample of the **AI Frontend Testing Kit** by Alfred Labs.
 It demonstrates a reviewed workflow for turning a frontend user story into a
 test plan and automated tests with AI assistance and human judgment.
 
+[Visit the product page](https://goi17.github.io/ai-frontend-testing-kit-free/)
+to review the workflow, compare Free and Pro, and see launch pricing.
+
 ## What the Free edition includes
 
 - 1 complete workflow
