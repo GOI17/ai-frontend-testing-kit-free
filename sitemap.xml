@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://goi17.github.io/ai-frontend-testing-kit-free/</loc></url>
-  <url><loc>https://goi17.github.io/ai-frontend-testing-kit-free/?page=refund</loc></url>
-  <url><loc>https://goi17.github.io/ai-frontend-testing-kit-free/?page=privacy</loc></url>
-  <url><loc>https://goi17.github.io/ai-frontend-testing-kit-free/?page=terms</loc></url>
+  <url><loc>https://aiftk.alfredlabs.org/</loc></url>
+  <url><loc>https://aiftk.alfredlabs.org/?page=refund</loc></url>
+  <url><loc>https://aiftk.alfredlabs.org/?page=privacy</loc></url>
+  <url><loc>https://aiftk.alfredlabs.org/?page=terms</loc></url>
+  <url><loc>https://aiftk.alfredlabs.org/?page=downloads</loc></url>
 </urlset>
